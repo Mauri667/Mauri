@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mauri667
+- 👋 Hi, I’m Mauricio!
 - 🌱 I’m currently learning web development
 
 <!---
